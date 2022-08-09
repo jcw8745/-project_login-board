@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poor+Story&display=swap');
+* {
+	font-family: 'Jua', sans-serif;
+	font-size: 40px;
+	
+	
+}
+
+h1 {
+	font-family: 'Poor Story', cursive;
+}
+
+
+  .carousel-inner > .item > img {
+      top: 0;
+      left: 0;
+      min-width: 100%;
+      min-height: 800px;
+    } 
+    
+.nav > li > a {
+  position: relative;
+  display: block;
+  padding: 35px 35px;
+}
+
+
+.nav-link {
+    color: white !important;
+}
